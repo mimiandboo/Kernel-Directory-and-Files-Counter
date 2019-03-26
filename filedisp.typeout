@@ -1,0 +1,18 @@
+Script started on Sun Mar  3 22:09:05 2019
+Hello Mia :)
+[?1034hbash-3.2$ exitquit[1Pendbash /Users/mia/filecnt.sh [C[C[C[C[C[C[C[C[C[Cclear[Kbash /Users/mia/filecnt.sh [K[K[K[K[K[Kd[K[Kdisp.sh 
+-f d
+directories
+bash-3.2$ bash /Users/mia/filedisp.sh 
+-f
+files
+bash-3.2$ bash /Users/mia/filedisp.sh 
+aksl
+Invalid input
+bash-3.2$ bash /Users/mia/filedisp.sh 
+-b
+bytes
+bash-3.2$ exit
+exit
+
+Script done on Sun Mar  3 22:10:11 2019
